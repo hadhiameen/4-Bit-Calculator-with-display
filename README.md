@@ -49,16 +49,20 @@ ___
 
 ## BLOCK DIAGRAM
        
-
+![Block Diagram](https://github.com/hadhi-py/4-Bit-Calculator-with-display/blob/main/Block_diagram.jpg)
 
 
 
 
 
 ## CIRCUIT DIAGRAM
+![Circuit Diagram](https://github.com/hadhi-py/4-Bit-Calculator-with-display/blob/main/Output_Circuit_page-0001.jpg)
 
-## RESULT
 
+## SAMPLE RESULTS
+![Result](https://github.com/hadhi-py/4-Bit-Calculator-with-display/blob/main/Results/Result%201.jpg)
+
+![Result](https://github.com/hadhi-py/4-Bit-Calculator-with-display/blob/main/Results/Result%202.jpg)
 
 
 ## CONCLUSION
